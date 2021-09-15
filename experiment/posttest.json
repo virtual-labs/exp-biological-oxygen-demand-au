@@ -2,37 +2,47 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1.BOD is _______",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Basic oxygen demand",
+        "b": "Biological oxygen demand",
+        "c": "Biological oxygen deficit",
+        "d": "None of the above"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2.BOD is an important measure of____________",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Oxygen content of water and waste water",
+        "b": "An organism’s natural level of oxygen requirements",
+        "c": "The oxygen using potential of water and waste water",
+        "d": "A measure of the biological activity of water and waste water"
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3.In BOD test, the alkaline condition is provided by____________",
+      "answers": {
+        "a": "Manganese sulphate",
+        "b": "Sulphuric acid",
+        "c": "Alkaline-iodide-azide solution",
+        "d": "All the above"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4.Indicator used in BOD test titration is _____________",
+      "answers": {
+        "a": "Phenolphthalein",
+        "b": "Methylene blue",
+        "c": "Methyl red",
+        "d": "Starch"
+      },
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
